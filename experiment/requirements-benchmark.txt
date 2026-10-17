@@ -1,0 +1,17 @@
+# Exact versions that produced results_ext/ and results_ablation/ (Python 3.13.7, Windows 10).
+# Install:
+#   python -m pip install -r requirements-benchmark.txt
+#   python -m pip install --no-deps -r requirements-nodeps.txt
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.6
+scikit-learn==1.9.1
+imbalanced-learn==0.14.2
+lightgbm==4.7.0
+joblib==1.6.0
+threadpoolctl==3.7.0
+baycomp==1.0.3
+matplotlib==3.11.2
+seaborn==0.13.2
+statsmodels==0.15.0
+scikit-posthocs==0.17.0

@@ -1,0 +1,6 @@
+,cytoplasm,inner membrane,"inner membrane, uncleavable signal",outer membrane,periplasm
+cytoplasm,0.9301,0.035,0.0,0.0,0.035
+inner membrane,0.026,0.7013,0.1948,0.013,0.0649
+"inner membrane, uncleavable signal",0.0286,0.4571,0.5143,0.0,0.0
+outer membrane,0.0,0.05,0.0,0.75,0.2
+periplasm,0.0962,0.0385,0.0192,0.0577,0.7885

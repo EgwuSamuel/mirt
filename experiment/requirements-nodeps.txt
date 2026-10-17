@@ -1,0 +1,7 @@
+# Install with --no-deps: smote-variants 1.0.1 declares tensorflow/mkl, which the oversamplers used
+# here (MWMOTE, ProWSyn, Safe-Level-SMOTE) do not need; metric-learn and minisom are its import-time deps.
+#   python -m pip install --no-deps -r requirements-nodeps.txt
+smote-variants==1.0.1
+metric-learn==0.7.0
+minisom==2.3.6
+knnor==0.1.4

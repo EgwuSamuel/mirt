@@ -1,0 +1,7 @@
+,red soil,cotton crop,grey soil,damp grey soil,vegetation stubble,very damp grey soil
+red soil,1.0,0.1649,0.4772,0.4843,0.5856,0.4282
+cotton crop,0.1649,1.0,0.0,0.1513,0.5532,0.2087
+grey soil,0.4772,0.0,1.0,0.8944,0.3975,0.5137
+damp grey soil,0.4843,0.1513,0.8944,1.0,0.7139,1.0
+vegetation stubble,0.5856,0.5532,0.3975,0.7139,1.0,0.9
+very damp grey soil,0.4282,0.2087,0.5137,1.0,0.9,1.0
